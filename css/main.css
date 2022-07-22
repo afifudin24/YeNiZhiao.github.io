@@ -10,6 +10,11 @@ html {
   scroll-behavior: smooth;
 }
 
+.icon {
+  width: 60px;
+  height: 60px;
+}
+
 /**
  * Disable smooth scrolling when users have prefers-reduced-motion enabled
  */
